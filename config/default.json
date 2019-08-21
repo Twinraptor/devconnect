@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Mythosx:atlasProject1!@devconnect-z5gvh.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Mythosx:atlasProject1!@devconnect-z5gvh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "superdupersecret"
 }
